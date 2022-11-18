@@ -1,0 +1,28 @@
+{
+  "categorizedProducts": [
+    {
+      "name": "book",
+      "type": "books"
+    },
+    {
+      "name": "chocolate bar",
+      "type": "food"
+    },
+    {
+      "name": "box of chocolates",
+      "type": "food"
+    },
+    {
+      "name": "packet of headache pills",
+      "type": "medical"
+    },
+    {
+      "name": "boxes of chocolate",
+      "type": "food"
+    },
+    {
+      "name": "books",
+      "type": "books"
+    }
+  ]
+}

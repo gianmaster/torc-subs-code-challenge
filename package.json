@@ -1,0 +1,17 @@
+{
+  "name": "torc-code-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Giancarlos Cercado"
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest --silent",
+    "test:c": "jest --coverage",
+    "test:v": "jest --verbose"
+  }
+}
